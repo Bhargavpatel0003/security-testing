@@ -49,3 +49,7 @@ Requierment 7
  ![r7](<Screenshot 2024-02-19 032725.png>) 
  as you can see here is 0 star ratting
 ![r7](image-8.png)
+
+Requierment 8
+![r8](image-9.png)
+with metrics i have accses to many sensitive information 
