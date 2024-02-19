@@ -2,7 +2,7 @@ Security testing
 
 
 Requirement 1
-![r1]("C:\Users\bharg\OneDrive\Desktop\st\r1.png")
+![r1]("r1.png")
 
 
 Requirement 2 
