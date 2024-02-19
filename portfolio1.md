@@ -14,9 +14,13 @@ Features and Functions
 •	User Profile Management: Updating user information and preferences.
 •	Challenge Tracking: A scoreboard that tracks the completion of various security challenges.
 •	Admin Functions: Administrative capabilities for managing the application, users, products, and configurations.
+
+
 Inputs and Outputs
 •	Inputs: User data (e.g., login credentials), product search queries, product reviews, user profile updates, and administrative commands.
 •	Outputs: Product listings, search results, authentication status (success/failure messages), user feedback acknowledgments, and challenge completion status.
+
+
 Expected and Unexpected Behaviours
 •	Expected Behaviours: Successful login, product search and display, cart updates, order completions, profile updates, and administrative modifications.
 •	Unexpected Behaviours: Application crashes, unauthorized access to sensitive data, leakage of user information, and successful exploitation of vulnerabilities (e.g., SQL injection, XSS).
